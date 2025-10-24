@@ -1,0 +1,27 @@
+{
+  "todos": [
+    {
+      "id": 5,
+      "title": "new task01",
+      "description": "task 01",
+      "completed": true,
+      "created_at": "2025-10-24T19:54:40.1361172+03:30",
+      "completed_at": "2025-10-24T21:26:47.9135336+03:30"
+    },
+    {
+      "id": 4,
+      "title": "test task",
+      "description": "test task description",
+      "completed": false,
+      "created_at": "2025-10-24T19:53:31.3013949+03:30"
+    },
+    {
+      "id": 2,
+      "title": "work on bpms project",
+      "description": "",
+      "completed": true,
+      "created_at": "2025-10-24T17:37:09.9679023+03:30"
+    }
+  ],
+  "next_id": 6
+}
